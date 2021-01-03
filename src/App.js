@@ -1,4 +1,3 @@
-import "./App.css";
 import Counters from "./components/counters";
 import NavBar from "./components/navbar";
 import React, { Component } from "react";
