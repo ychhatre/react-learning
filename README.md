@@ -1,3 +1,4 @@
+A small project that I built (a counter app basically) to learn react Fundamentals 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
